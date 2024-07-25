@@ -1,10 +1,10 @@
 # CODTECH-Task-2
-Name: Antara Patil 
-Company:CODTECH IT SOLUTIONS
-ID: CT4SQL3009
-Domain: SQL
-Duration:June to July 2024
-Mentor: Neela Santhosh Kumar
+Name: Antara Patil <br>
+Company:CODTECH IT SOLUTIONS <br>
+ID: CT4SQL3009 <br>
+Domain: SQL <br>
+Duration:June to July 2024 <br>
+Mentor: Neela Santhosh Kumar <br>
 
 Project Title:- Student Records Management System
 
